@@ -1,0 +1,27 @@
+// NativeScript core theme
+// @see https://docs.nativescript.org/ui/theme
+@import '~@nativescript/theme/core';
+@import '~@nativescript/theme/aqua';
+
+// Override variables here
+
+// Global SCSS styling
+// @see https://docs.nativescript.org/ui/styling
+
+  .addCustomBtn {
+    // width: "250";
+    // height: "50";
+    background-color: "#00A3FF";
+    color: "white";
+}
+.editBtn {
+    width: "auto";
+    background-color: "#00A3FF";
+    color: "white";
+}
+.input {
+    color: "black";
+    background-color: "white";
+    // width: "250";
+    // height: "50";
+}
