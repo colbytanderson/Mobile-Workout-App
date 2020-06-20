@@ -1,6 +1,6 @@
-# Physique
+# Mobile Workout App
 
-> A native application built with NativeScript-Vue
+Description: An example full stack workout app built using NativeScript-Vue for both ios/android complete with testing. It allows users to create accounts and create custom workouts or exercises. It also lets users choose default workouts/exercises. 
 
 ## Usage
 
